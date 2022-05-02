@@ -17,7 +17,7 @@ You'll see your prompt change into:
 (cmscm13600-env) skr@linux2:~$
 ```
 
-In your web browser,  accept the assignment using the following link [https://classroom.github.com/a/8_LrMWFL].
+In your web browser,  accept the assignment using the following link [https://classroom.github.com/a/Vpk0hIIi].
 You'll be given a dropdown list with a list of CNET ids, please select yours and "accept" the assignment. 
 This will create a pre-populated repository for you with the assignment details.
 Once the repository is created, you will get a link that looks something like this:
